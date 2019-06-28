@@ -2,6 +2,6 @@ html, body {
     margin: 0;
     height: 100%;
     background: transparent;
-    background-blend-mode: lighten;
+    background-blend-mode: hard-light;
 }
 
